@@ -1,10 +1,11 @@
 body {
    font-family: "arial";
-   font-size: 14pt;
+   font-size: 12pt;
 } 
 
 h1 {
   color: navy;
+  font-size: 18pt;
 }
 
 a:hover {
