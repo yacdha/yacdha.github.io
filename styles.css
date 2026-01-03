@@ -23,6 +23,7 @@ a:visited {
 }
 
 a:hover {
+  font-weight: bold;
   color: white;
   background-color: #0700A1;
   text-decoration: none;
