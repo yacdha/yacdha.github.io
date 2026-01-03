@@ -6,4 +6,4 @@ Les règles proposées par YACDHA sont simples et courtes. Elles permettent de g
 de scénarios d'enquête, d'horreur et de mystère sans s’attacher à une époque particulière.
 
 YACDHA ne requiert que quelques dés classiques à six faces et de quoi écrire. L'ensemble du matériel pour le 
-jeu est mis à disposition à titre gracieux
+jeu est mis à disposition à titre gracieux.
