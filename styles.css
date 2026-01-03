@@ -9,12 +9,14 @@ h1 {
 }
 
 a:link {
+  font-weight: bold;
   color: #0700A1;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
+  font-weight: bold;
   color: #0700A1;
   background-color: transparent;
   text-decoration: none;
@@ -27,6 +29,7 @@ a:hover {
 }
 
 a:active {
+  font-weight: bold;
   color: #0700A1;
   background-color: transparent;
   text-decoration: none;
