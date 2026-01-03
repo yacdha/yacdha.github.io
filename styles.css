@@ -4,20 +4,20 @@ body {
 } 
 
 h1 {
-  color: #0700A1;
+  color: #125999;
   font-size: 17pt;
 }
 
 a:link {
   font-weight: bold;
-  color: #0700A1;
+  color: #125999;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
   font-weight: bold;
-  color: #0700A1;
+  color: #125999;
   background-color: transparent;
   text-decoration: none;
 }
@@ -25,13 +25,13 @@ a:visited {
 a:hover {
   font-weight: bold;
   color: white;
-  background-color: #0700A1;
+  background-color: #125999;
   text-decoration: none;
 }
 
 a:active {
   font-weight: bold;
-  color: #0700A1;
+  color: #125999;
   background-color: transparent;
   text-decoration: none;
 }
